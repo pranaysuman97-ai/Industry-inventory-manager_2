@@ -15,5 +15,6 @@ A web-based inventory management system built using Python, Flask, HTML, and Jav
 - JavaScript
 - JSON
 
+
 ## Purpose
 This project helps manage industry inventory and track stock-related information through a simple web application.
